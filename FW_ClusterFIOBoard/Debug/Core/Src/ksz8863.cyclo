@@ -1,0 +1,9 @@
+../Core/Src/ksz8863.c:14:6:ksz_csLOW	1
+../Core/Src/ksz8863.c:19:6:ksz_csHIGH	1
+../Core/Src/ksz8863.c:24:6:ksz_SPI_Write	1
+../Core/Src/ksz8863.c:29:6:ksz_SPI_Read	1
+../Core/Src/ksz8863.c:35:10:ksz_ReadID	1
+../Core/Src/ksz8863.c:50:9:ksz_Read	1
+../Core/Src/ksz8863.c:67:9:ksz_write	1
+../Core/Src/ksz8863.c:91:10:ksz_ReadID_DMA	3
+../Core/Src/ksz8863.c:149:9:ksz_Read_DMA	1

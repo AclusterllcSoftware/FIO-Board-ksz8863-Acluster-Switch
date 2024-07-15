@@ -1,0 +1,4 @@
+../Core/Src/debug.c:22:6:DebugPrintf	1
+../Core/Src/debug.c:31:6:DebugPrintBinary	2
+../Core/Src/debug.c:41:6:print_binary	2
+../Core/Src/debug.c:48:6:print_ksz8863_static_mac_entry	1

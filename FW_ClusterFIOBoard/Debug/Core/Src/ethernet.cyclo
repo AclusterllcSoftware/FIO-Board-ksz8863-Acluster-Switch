@@ -1,0 +1,4 @@
+../Core/Src/ethernet.c:11:6:printMacAddrAsBytes	1
+../Core/Src/ethernet.c:18:6:printMacAddrAsWords	1
+../Core/Src/ethernet.c:24:6:macCopyAddr	1
+../Core/Src/ethernet.c:29:5:macCompAddr	1

@@ -1,0 +1,4 @@
+../Core/Src/debug.c:22:6:DebugPrintf	16	static
+../Core/Src/debug.c:31:6:DebugPrintBinary	24	static
+../Core/Src/debug.c:41:6:print_binary	24	static
+../Core/Src/debug.c:48:6:print_ksz8863_static_mac_entry	16	static

@@ -1,0 +1,12 @@
+../Core/Src/W25Qxx.c:63:6:W25Q_Delay	1
+../Core/Src/W25Qxx.c:68:6:csLOW	1
+../Core/Src/W25Qxx.c:73:6:csHIGH	1
+../Core/Src/W25Qxx.c:78:6:SPI_Write	1
+../Core/Src/W25Qxx.c:83:6:SPI_Read	1
+../Core/Src/W25Qxx.c:90:6:W25Q_Reset	1
+../Core/Src/W25Qxx.c:101:10:W25Q_ReadID	1
+../Core/Src/W25Qxx.c:114:6:W25Q_Read	1
+../Core/Src/W25Qxx.c:149:6:W25Q_FastRead	1
+../Core/Src/W25Qxx.c:195:6:SPI_TransmitReceive_DMA	5
+../Core/Src/W25Qxx.c:212:6:W25Q_Reset_DMA	1
+../Core/Src/W25Qxx.c:227:10:W25Q_ReadID_DMA	2
